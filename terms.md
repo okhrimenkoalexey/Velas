@@ -247,3 +247,4 @@ shall survive any termination or expiration of these T&Cs, regardless of reason 
 29.4.	The failure by Velas to enforce any provision of these T&Cs will not constitute a present or future waiver of such provision nor limit our right to enforce such provision at a later time. All waivers by us must be in writing to be effective.
 29.5.	You confirm that you have been granted an opportunity to seek a legal advice before executing these T&Cs, that you have read and understood this document, and further acknowledge that these T&C are final, legally binding and irrevocable.
 29.6.	Nothing in these T&Cs shall be deemed to create any form of partnership, joint venture or any other similar relationship between you and Velas and/or other individuals or entities involved with the Token swap, VLX2, development and deployment of the smart contracts and/or the Velas platform.
+
