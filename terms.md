@@ -20,8 +20,7 @@ References in these T&amp;Cs to &quot; **you**&quot; or &quot; **your** ,&quot; 
 If you have any questions relating to these T&amp;Cs, please contact us at [office@velas.com](mailto:office@velas.com).
 
 **YOU AND VELAS HEREBY AGREE AS FOLLOWS:**
-
-1. **1.**** THESE TERMS AND CONDITIONS**
+ **1.**** THESE TERMS AND CONDITIONS**
   1. **1.1.** You hereby acknowledge and agree that these T&amp;Cs are final, and supersede, substitute, and extinguish any and all:
 
 1. (i)prior terms and conditions, agreements, negotiations, letters or arrangements between you and Velas, and statements made by Velas, Velas Companies, their affiliates and representatives, whether written or oral, and whether express or implied, with respect to: (a) the Token swap, as defined below, and the subject matter of these T&amp;Cs, (b) Velas token issuance, sale, distribution, delivery and use, (c) Velas platform, its development and deployment (items (a) through (c) of this Clause 1.1(i) collectively, the &quot; **Matters**&quot;);
