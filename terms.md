@@ -639,6 +639,3 @@ BY ACCEPTING THESE T&Cs AND/OR APPLYING FOR AND/OR PARTICIPATING IN THE VELAS TO
 29.6.  	Nothing in these T&Cs shall be deemed to create any form of partnership, joint venture or any other similar relationship between you and Velas and/or other individuals or entities involved with the Token swap, VLX2, development and deployment of the smart contracts and/or the Velas platform.
 
  
-
-
-<!-- Docs to Markdown version 1.0β21 -->
